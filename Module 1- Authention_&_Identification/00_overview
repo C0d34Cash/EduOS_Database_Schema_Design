@@ -1,0 +1,23 @@
+# Module 1 – Authentication & Identity
+
+## Entities (Tables)
+- users
+- roles
+- permissions
+- role_permissions
+- user_roles
+- auth_providers
+- user_sessions
+- login_history
+- student_profiles
+- faculty_profiles
+- admin_profiles
+
+## File Structure
+Module-1-Authentication-Identity/
+├── 01_enums.sql
+├── 02_tables.sql
+├── 03_partitions.sql
+├── 04_indexes.sql
+├── 05_foreign_keys.sql
+└── 06_triggers.sql
