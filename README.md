@@ -37,22 +37,22 @@ EduOS Database is designed as a modern, modular, and future-proof foundation for
 
 ## Modules
 
+## Modules
+
 | #  | Module                        | Key Entities                                      | Status      |
 |----|-------------------------------|---------------------------------------------------|-------------|
 | 1  | Authentication & Identity     | Users, Roles, Permissions, Sessions, Profiles     | Completed   |
 | 2  | Academic Structure            | Departments, Programs, Academic Years, Semesters, Subjects, Units, Syllabus Topics | Completed   |
-| 3  | Learning Resources            | Resources, PDFs, Videos, Web Resources, Tags      | Upcoming    |
-| 4  | OCR & AI Knowledge            | OCR Documents, Pages, Text Chunks, Embeddings    | Upcoming    |
-| 5  | AI Tutor                      | Chat Sessions, Messages, Prompt Templates, Token Usage | Upcoming |
-| 6  | Assessment                    | Question Bank, Mock Tests, Quiz Attempts          | Upcoming    |
-| 7  | Learning Progress             | Progress, Watch History, Reading History, Study Sessions | Upcoming |
-| 8  | Gamification                  | Streaks, Achievements, Badges, Leaderboards       | Upcoming    |
-| 9  | Analytics                     | Subject Mastery, Weak Topics, Recommendations      | Upcoming    |
-| 10 | AI Study Planner              | AI Notes, Flashcards, Planner Schedules & Tasks   | Upcoming    |
-| 11 | Notifications                 | Templates, Notifications, Announcements           | Upcoming    |
-| 12 | Administration                | Audit Logs, Feature Flags, System Metrics, Configurations | Upcoming |
-
----
+| 3  | Learning Resources            | Resources, PDFs, Videos, Web Resources, Tags      | Completed   |
+| 4  | OCR & AI Knowledge            | OCR Documents, Pages, Text Chunks, Embeddings    | Completed   |
+| 5  | AI Tutor                      | Chat Sessions, Messages, Prompt Templates, Token Usage | Completed |
+| 6  | Assessment                    | Question Bank, Mock Tests, Quiz Attempts          | Completed   |
+| 7  | Learning Progress             | Progress, Watch History, Reading History, Study Sessions | Completed |
+| 8  | Gamification                  | Streaks, Achievements, Badges, Leaderboards       | Completed   |
+| 9  | Analytics                     | Subject Mastery, Weak Topics, Recommendations      | Completed   |
+| 10 | AI Study Planner              | AI Notes, Flashcards, Planner Schedules & Tasks   | Completed   |
+| 11 | Notifications                 | Templates, Notifications, Announcements           | Completed   |
+| 12 | Administration                | Audit Logs, Feature Flags, System Metrics, Configurations | Completed |
 
 ## Folder Structure
 
