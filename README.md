@@ -58,6 +58,9 @@ EduOS Database is designed as a modern, modular, and future-proof foundation for
 
 ```text
 eduos-database-schema/
+│
+├── README.md
+│
 ├── Module-1-Authentication-Identity/
 │   ├── 01_enums.sql
 │   ├── 02_tables.sql
@@ -74,6 +77,72 @@ eduos-database-schema/
 │   └── 05_triggers.sql
 │
 ├── Module-3-Learning-Resources/
+│   ├── 01_enums.sql
+│   ├── 02_tables.sql
+│   ├── 03_indexes.sql
+│   ├── 04_foreign_keys.sql
+│   └── 05_triggers.sql
+│
 ├── Module-4-OCR-AI-Knowledge/
-├── ...
+│   ├── 00_extensions.sql
+│   ├── 01_enums.sql
+│   ├── 02_tables.sql
+│   ├── 03_indexes.sql
+│   ├── 04_foreign_keys.sql
+│   └── 05_triggers.sql
+│
+├── Module-5-AI-Tutor/
+│   ├── 01_enums.sql
+│   ├── 02_tables.sql
+│   ├── 03_indexes.sql
+│   ├── 04_foreign_keys.sql
+│   └── 05_triggers.sql
+│
+├── Module-6-Assessment/
+│   ├── 01_enums.sql
+│   ├── 02_tables.sql
+│   ├── 03_indexes.sql
+│   ├── 04_foreign_keys.sql
+│   └── 05_triggers.sql
+│
+├── Module-7-Learning-Progress/
+│   ├── 01_enums.sql
+│   ├── 02_tables.sql
+│   ├── 03_indexes.sql
+│   ├── 04_foreign_keys.sql
+│   └── 05_triggers.sql
+│
+├── Module-8-Gamification/
+│   ├── 01_enums.sql
+│   ├── 02_tables.sql
+│   ├── 03_indexes.sql
+│   ├── 04_foreign_keys.sql
+│   └── 05_triggers.sql
+│
+├── Module-9-Analytics/
+│   ├── 01_enums.sql
+│   ├── 02_tables.sql
+│   ├── 03_indexes.sql
+│   ├── 04_foreign_keys.sql
+│   └── 05_triggers.sql
+│
+├── Module-10-AI-Study-Planner/
+│   ├── 01_enums.sql
+│   ├── 02_tables.sql
+│   ├── 03_indexes.sql
+│   ├── 04_foreign_keys.sql
+│   └── 05_triggers.sql
+│
+├── Module-11-Notifications/
+│   ├── 01_enums.sql
+│   ├── 02_tables.sql
+│   ├── 03_indexes.sql
+│   ├── 04_foreign_keys.sql
+│   └── 05_triggers.sql
+│
 └── Module-12-Administration/
+    ├── 01_enums.sql
+    ├── 02_tables.sql
+    ├── 03_indexes.sql
+    ├── 04_foreign_keys.sql
+    └── 05_triggers.sql
